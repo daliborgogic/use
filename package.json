@@ -1,0 +1,23 @@
+{
+  "name": "use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliborgogic/use.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daliborgogic/use/issues"
+  },
+  "homepage": "https://github.com/daliborgogic/use#readme",
+  "devDependencies": {
+    "vite": "^0.20.2"
+  }
+}

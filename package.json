@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/daliborgogic/use#readme",
   "devDependencies": {
-    "vite": "^0.20.2"
+    "vite": "^4.0.3"
   }
 }
